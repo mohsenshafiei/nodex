@@ -70,7 +70,7 @@ fs.unlink('./newDirectory/newData.txt', (err) => {
     })
   }
 })
-
+// read directory
 fs.readdir('newDirectory', (err, files) => {
   if (err) console.log(err)
   else {
