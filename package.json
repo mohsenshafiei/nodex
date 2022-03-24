@@ -12,7 +12,7 @@
   "author": "Mohsen Shafiei Tafreshi",
   "license": "MIT",
   "devDependencies": {
-    "minimist": "^1.2.0"
+    "minimist": "^1.2.6"
   },
   "dependencies": {
     "get-stdin": "^7.0.0"
